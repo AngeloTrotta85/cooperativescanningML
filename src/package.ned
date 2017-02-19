@@ -1,0 +1,3 @@
+package cooperativescanningml;
+
+@license(LGPL);
