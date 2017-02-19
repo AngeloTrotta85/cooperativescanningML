@@ -3,6 +3,7 @@
 	<name>cooperativescanningML</name>
 	<comment></comment>
 	<projects>
+		<project>inet_ext</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
